@@ -1,0 +1,4 @@
+language: csharp
+sudo: required
+install: true
+script:
